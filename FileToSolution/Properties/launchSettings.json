@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FileToService": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Source\\Test\\serilog.json C:\\Source\\Test -r SolutionName WebAPI_&SolutionName&Service",
+      "workingDirectory": "C:\\Source\\Services\\Source"
+    }
+  }
+}
